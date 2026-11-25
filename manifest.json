@@ -1,0 +1,16 @@
+{
+  "name": "Learn Chat - إكرام",
+  "short_name": "Learn Chat",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFF0F5",
+  "theme_color": "#FFB6C1",
+  "description": "تطبيق تعليمي تفاعلي",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3413/3413586.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
