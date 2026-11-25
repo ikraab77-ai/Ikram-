@@ -1,0 +1,15 @@
+{
+  "name": "Learn Chat - إكرام",
+  "short_name": "Learn Chat",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFF0F5",
+  "theme_color": "#FFB6C1",
+  "icons": [
+    {
+      "src": "Screenshot_20261124-160333_Google.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
